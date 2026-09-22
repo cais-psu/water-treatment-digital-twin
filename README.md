@@ -21,7 +21,7 @@ The water-level sensor integration is still in progress because the Arduino/sens
 ## Files
 
 - `the best 6.ptm` - Current ProtoTwin model.
-- `start_full_digital_twin_human.m` - MATLAB startup and communication script.
+- `start_full_digital_twin_lastversion` - MATLAB startup and communication script.
 - `README.md` - Project setup and startup instructions.
 
 ## Startup
