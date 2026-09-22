@@ -29,7 +29,7 @@ The water-level sensor integration is still in progress because the Arduino/sens
 1. Open `the best 6.ptm`.
 2. Keep the physical motor driver OFF.
 3. Open MATLAB.
-4. Run `start_full_digital_twin_human.m`.
+4. Run `start_full_digital_twin_lastversion.m`.
 5. Wait until MATLAB confirms that MQTT and the ESP32 are connected and the system is ready.
 6. Open ProtoTwin Connect and put the model in PLAY mode.
 7. Confirm that all pump and valve controls are OFF / FALSE.
